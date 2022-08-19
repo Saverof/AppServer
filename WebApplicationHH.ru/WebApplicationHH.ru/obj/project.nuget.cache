@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbISHzO3DoDd2khBsw3EMwYD9ZIhqxv3U4Zx8QlOXc7Khmtjy8/U6r0rQ9BElciPSQPjzL7nWieK6cNLLuzEQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vadim\\source\\repos\\WebApplicationHH.ru\\WebApplicationHH.ru\\WebApplicationHH.ru.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadim\\.nuget\\packages\\microsoft.aspnetcore.hosting.windowsservices\\6.0.8\\microsoft.aspnetcore.hosting.windowsservices.6.0.8.nupkg.sha512",
+    "C:\\Users\\Vadim\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vadim\\.nuget\\packages\\system.serviceprocess.servicecontroller\\6.0.0\\system.serviceprocess.servicecontroller.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
