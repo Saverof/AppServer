@@ -1,0 +1,144 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplicationHH.ru/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.WindowsServices": "6.0.8",
+          "System.DirectoryServices": "4.0.0.0"
+        },
+        "runtime": {
+          "WebApplicationHH.ru.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Hosting.WindowsServices/6.0.8": {
+        "dependencies": {
+          "System.ServiceProcess.ServiceController": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Hosting.WindowsServices.dll": {
+            "assemblyVersion": "6.0.8.0",
+            "fileVersion": "6.0.822.36316"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/6.0.0": {},
+      "System.ServiceProcess.ServiceController/6.0.0": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.ServiceProcess.ServiceController.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.ServiceProcess.ServiceController.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.DirectoryServices/4.0.0.0": {
+        "runtime": {
+          "System.DirectoryServices.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.822.36306"
+          }
+        }
+      },
+      "System.Security.Permissions/6.0.0.0": {
+        "runtime": {
+          "System.Security.Permissions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.822.36306"
+          }
+        }
+      },
+      "System.Windows.Extensions/6.0.0.0": {
+        "runtime": {
+          "System.Windows.Extensions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.822.36306"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0.0": {
+        "runtime": {
+          "System.Drawing.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.822.36306"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/6.0.0.0": {
+        "runtime": {
+          "Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.822.36306"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationHH.ru/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Hosting.WindowsServices/6.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zqZNMa3AmiCye8/g7jYNr6JXPgEcC0cjWAqR6zBV6skKotseCz2yyJLXS/M7WKoaInuBZ/3lgvR+QWIT6oLrKQ==",
+      "path": "microsoft.aspnetcore.hosting.windowsservices/6.0.8",
+      "hashPath": "microsoft.aspnetcore.hosting.windowsservices.6.0.8.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "hashPath": "system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+    },
+    "System.ServiceProcess.ServiceController/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qMBvG8ZFbkXoe0Z5/D7FAAadfPkH2v7vSuh2xsLf3U6jNoejpIdeV18A0htiASsLK1CCAc/p59kaLXlt2yB1gw==",
+      "path": "system.serviceprocess.servicecontroller/6.0.0",
+      "hashPath": "system.serviceprocess.servicecontroller.6.0.0.nupkg.sha512"
+    },
+    "System.DirectoryServices/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Permissions/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Extensions/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
